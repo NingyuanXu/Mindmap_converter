@@ -1,0 +1,315 @@
+Autism
+	ASD and adults
+		Assumptions
+			More likely to present as Intellectual Delayed
+			More likely to be male
+			Lower incidence rates
+		Change in diagnostic systems over time
+			Kanner: Autistic disturbances of affective contact
+				First wave up to 75 years of age
+			DMM III 1980
+				Infantile autism
+					second wave now over 38 years of age
+			DSM -IV 1994
+				Introduction of Asperger's Disorder
+					Third wave over 24
+		Epidemiology
+			Incidence rate of adults: 9.8 / 10,000 1%
+			Male : Female 9:1
+			More likely to be single
+			Less likely to own real estate
+			智力下降的很快
+		Assessment
+			Challenges
+				May not have parents available to provide developmental history
+				Normative behavior change over time （type of play)
+				More isolation may lead to less social comparison （我从来一个人在一起，正常人的生活怎样我也不知道）
+				Lifelong pressure to fit into neurotypical world may lead to more camouflage behavior
+				ASD symptoms can be overshadowed by other medical conditions
+				may be triggered by setback phenomenon
+		Co-occurring Mental Health
+		Treatment
+		Outcome data
+			high rate of cooccurring mental health challenges
+			increased cost of social challenges
+			higher likelihood of medical conditions
+	ASD and women
+		ASD and gender ratio
+			History
+				Kanner 8/11 were males
+				Asperger 4/4 cases are males
+				Male biased understanding of ASD
+			In absence of intellectual impairment, ASD is diagonosed both later and less in females
+				4:1
+				If not intellectual impairment 9:1
+				for low IQ 2:1
+				女生小时候不容易被诊断出来
+				时间长了以后会慢慢被诊断出来
+		Measurement bias
+			did not factor in gender differences when norming instruments (男女不分家）
+			Women more likely to diagnosed as AD/HD. eating disorders. language delay
+		Relationship to language
+			No speech - no sexual differences
+			Limited speech - lower IQ and adaptive skills for female
+			Good speech = similar or better for females
+		Diagnostic difference for Women "less and later"
+			More servere
+			bahavior and cognitive impairment
+			underreported by teachers
+		Female phenotype
+			low self-esteem, internalizing and externalizing behaviors
+			eating disorder
+				in NT  ~ 1 % in ASD 7.9 %
+				in NT 10: 1 in ASD 2.5 : 1
+			Better Linguistic abilities and imagination
+			Greater awareness of social interaction
+			Perceived as being shy
+			Tend to imitate and camouflage
+			Tend to be mothered in primary school and bullying at secondary school
+			Restricted interests in animals， being professional perfectionalism
+			Passive demand/ avoidance
+			Tend to have eating disorders
+			Men VS Women
+				Male :  imaginative play, circumscribed interests, unusual preoccupation, hand finger, object usuage, preoccupation with objects, fascination in movement, attention to detail
+				Female: range of facial expression, self injury, drawing skill, plus hair salon, rubs, scratches self, washing and cleaning, hoarding, self - care bathroom, dressing, strong attachment to one object.
+			Female have
+				More communication impairment
+				Lower level of restricted interests
+				Lower cognitive ability
+				Weaker adaptive skills
+				Greater externalizing
+				High level of lethargy (lack of energy)
+				Better observational learning
+				stronger internal scripting for relationship
+				better use of gesture
+		Female Camouflage Effect
+			Greater interest in socialization
+			Fewer repetitive restricted behaviors
+			High level of internalizing and less externalizing
+			fake eye contact
+			learned phase
+			Female protective effect
+				Your are not autistic
+				Pretending to normal
+				Passive to assertive
+				Forgoing an identity as a woman with ASD
+		Cost associated with later diagnosis
+			Age of diagnosis (later for female)
+			However, age when parents first express concern (no difference)
+			late provision of services
+			miss opportunity for early intervention
+			disproportionate amount of ASD specialist
+		Female Bi-modal distribution
+			May be that the lower group is more classically ASD and that higher group is atypical and presents differently to males
+	ASD and Sexual Relationship
+		ASD and sexuality
+			Samples are drawn from low IQ
+			Lump with other disabilities
+			93% cognitive-able samples express sexual interests
+			68% of lower cognitive group expressing interest
+		Relationships
+			Men
+				Never in relationship: 35%
+				Previous relationship: 25%
+				Current relationship: 37%
+			Women
+				Never in relationship: 28% - 女生谈恋爱的多一些
+				Previous relationship: 43%
+				Current relationship: 48%
+			Why
+				Contact others is too exhausting for me
+				I am afraid of not fulfilling my partner's expectation
+				I do not know how to meet a potential partner
+				不是不需要，其实也想要
+			Dating challenges
+				Proximity -  周围认识的人的多少
+				No study about ASD and marriage
+			Sexual offending
+				Sex offender - 22%v 60 meet ASD
+				Higher percentage of stalking
+					poor regulation of behavior
+		Gender Identity
+			Sexual orientation
+				High cognitive function - 93% Positive sexual interest
+				low cognitive - 68% positive sexual interest
+			Gender variance
+				Male ASD
+					Higher percentage of transgender
+					Lower percentage of male identity
+					High percentage of bigender
+					Higher percentage of women identity
+				Female ASD
+					Higher percentage of genderqueer
+					Higher percentage of other
+					Lower percentage of women
+					Higher percentage of transgender
+			Gender dysphoria
+				a conflict between a person's physical or assigned gender and the gender with identify (性别焦虑）
+				ASD 7.59 times more likely to report ( 4.0 %)
+				Biology factor (gene, hormone, toxin) VS  Social factor (parenting)
+					gender identity develop within first 3 year
+					have a disturbed sense of self
+			Similarity to neurotypical
+				Same need for closeness, sexual relationship
+				No difference in: sexual interest, use of porn, masturbation..
+			Difference from neurotypical
+				May engage in more inappropriate sexual behavior
+				Lack of ToM, less awareness of partner's needs
+				More likely to be victmized
+					poor self advocacy
+					a sexual abuse rate  12% in ASD
+					More likely to be female, intellectual disability
+		Deviant Sexual Behavior
+			Public masturbation
+			Arousal to non-traditional object
+			Exhibitionism - expose genital
+			Offenses
+			Sexual Abuse
+			Non-consenusal hugging
+			Reason
+				Puberty
+				Sensory issues
+				Boundaries
+				Curiosity
+				Exposure to porn
+	CBT
+		Introduction to Cognitive Behaviour Therapy
+			A form of psychopathlogy - focus on identify and systematically altering maladaptive cognitive and behavior coping
+				compare to ABT
+					Teach people to change behavior
+					access outcome in measurable terms
+					differ in how may change
+					behavior  is
+			evidenced based
+			explicit protocols for treatment
+			Present-focused
+			Use Rationale to achieve collaboration
+			Skills-acquisition approach
+			Goal-setting is fundamental
+		Automatic thoughts
+			All or nothing
+			Overgeneralization
+			Mind reading
+			Catastrophing
+			What if
+			Should / Must
+			Depressive thought
+			systematic desensitization
+				exposure to increasing more anxiety- provoking stimuyli
+			Relaxation techniques
+				progressive relaxation
+				deep breathing
+				imagery
+		Adaptations for ASD
+		Application for ASD
+	Employment and ASD
+		ASD and employment
+			ASD quality  of life measurements comparable to NT
+			Job satisfaction correlates with life satisfaction
+			self-efficacy correlates with work-related outcomes
+			Individual with ASD are capable of employment
+			Individuals with ASD want to work
+		Advantage of work
+			less about money
+			more about contribution to society
+		stats
+			300000 in 17 million
+			3billion expect 50-60 million
+			Labour force participation rates
+				Neurotypical : 83%
+				Any Disability: 54 %
+				ASD: 34%
+					Intellectual disability 4X
+					Emotional Disturbance 7 X
+					Learning Disabled 12X
+					Speech/ Language Impairment
+		barriers to employment
+			Attitude toward disability
+			management style
+			lack of accommodation
+			employer structure
+			Internal challenges
+				executive functioning skills
+				Job interview
+				on the job skills
+					balance workload
+					priortizing work
+					complex set of instruction
+					expectation of generalization
+				social skills
+					one of the most significant barrier to successful employment
+				Comobidity
+			Workplace protocols
+				tardiness protocol
+				overtime
+		Types of employment
+			unemployed
+				without a job
+			underemployed
+				employed in a job that underutilize skills
+			Malemplyed
+				malemployed in a job that is ill-suited to skills
+			Natural science Geography and computer science
+			ASD friendly
+				pattern recognition
+				repetitive
+				income not tied tied to productio
+			ASD - challenging
+				income tied to social skills
+				reliant on generalizaiton
+			Supported employment
+				assesessment
+				job finding
+				job analysis
+				job matching
+				job design
+				introduction into the workplace
+				training on the job
+			Customized Employment
+				self - actualization
+				social and collegial factors
+				job roles and work content
+			skills
+				attention to detail
+				work ethic
+				quality of work
+				behavioral skills training
+					robust effect
+				vedio-based intervention
+					good promise
+		Cost/ benefits of employment and ASD
+			inclusion
+			societal benefits
+			economic benefit
+	Cognitive variation in ASD
+		How/low function
+		Intelligence assumption
+			Wechsler Preschool and Primary scale of Intelligence
+			Wechsler Intelligence Scale for Children
+			Wechsler Adult Intelligence Scale
+				Verbal comprehension
+				processing speed
+				working memory
+				Spatical
+				Fluid Reasoning
+			Assumption
+				Stable over time
+				IQ score is reflective of ability
+				Norm apply to all groups
+		confounds with ASD
+			Process speed can impact scores
+			All or nothing response may not allow elaboration
+			ToM reduce effort
+			Abstraction
+		Delayed development over time
+		low cognitive abilities
+			Type of support
+			Differentiate ASD and low IQ
+				impaired relationship
+				no shared enjoyment
+				no make believe play
+				restricted interest
+			ASD level 3
+		high cognitive ability
+			ASD Level1: a person who is able to speak in full sentences and engage in communicat
+			even with high IQ, cannot look after themselves

@@ -16,9 +16,9 @@ import static java.nio.file.Files.readAllLines;
 public class ReadTxt {
 
     public static void main(String[] args) throws IOException {
-        FileReader read = new FileReader("file.txt");
+        FileReader read = new FileReader("txt3.txt");
         BufferedReader br = new BufferedReader(read);
-        List<String> lines = readAllLines(Paths.get("file.txt"));
+        List<String> lines = readAllLines(Paths.get("txt3.txt"));
         parseLines(lines);
     }
 

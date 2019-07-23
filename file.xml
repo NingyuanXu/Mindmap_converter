@@ -1,601 +1,948 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <nd>
-  <Name>工农红1团</Name>
-  <Nodes>
+  <Name>Autism
     <nd>
-      <Name>1营</Name>
-      <Nodes>
-        <nd>
-          <Name>1连</Name>
-          <Nodes>
-            <nd>
-              <Name>1排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>2排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>3排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>炊事班</Name>
-            </nd>
-          </Nodes>
-        </nd>
-        <nd>
-          <Name>2连</Name>
-          <Nodes>
-            <nd>
-              <Name>1排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>2排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>3排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>炊事班</Name>
-            </nd>
-          </Nodes>
-        </nd>
-        <nd>
-          <Name>3连</Name>
-          <Nodes>
-            <nd>
-              <Name>1排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>2排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>3排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>炊事班</Name>
-            </nd>
-          </Nodes>
-        </nd>
-        <nd>
-          <Name>机枪排</Name>
-          <Nodes>
-            <nd>
-              <Name>1班</Name>
-            </nd>
-            <nd>
-              <Name>2班</Name>
-            </nd>
-            <nd>
-              <Name>3班</Name>
-            </nd>
-            <nd>
-              <Name>炊事班</Name>
-            </nd>
-          </Nodes>
-        </nd>
-      </Nodes>
+      <Name>ASD and adults</Name>
     </nd>
     <nd>
-      <Name>2营</Name>
-      <Nodes>
-        <nd>
-          <Name>4连</Name>
-          <Nodes>
-            <nd>
-              <Name>1排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>2排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>3排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>炊事班</Name>
-            </nd>
-          </Nodes>
-        </nd>
-        <nd>
-          <Name>5连</Name>
-          <Nodes>
-            <nd>
-              <Name>1排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>2排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>3排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>炊事班</Name>
-            </nd>
-          </Nodes>
-        </nd>
-        <nd>
-          <Name>6连</Name>
-          <Nodes>
-            <nd>
-              <Name>1排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>2排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>3排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>炊事班</Name>
-            </nd>
-          </Nodes>
-        </nd>
-        <nd>
-          <Name>机枪排</Name>
-          <Nodes>
-            <nd>
-              <Name>1班</Name>
-            </nd>
-            <nd>
-              <Name>2班</Name>
-            </nd>
-            <nd>
-              <Name>3班</Name>
-            </nd>
-            <nd>
-              <Name>炊事班</Name>
-            </nd>
-          </Nodes>
-        </nd>
-      </Nodes>
+      <Name>Assumptions</Name>
     </nd>
     <nd>
-      <Name>3营</Name>
-      <Nodes>
-        <nd>
-          <Name>7连</Name>
-          <Nodes>
-            <nd>
-              <Name>1排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>2排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>3排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>炊事班</Name>
-            </nd>
-          </Nodes>
-        </nd>
-        <nd>
-          <Name>8连</Name>
-          <Nodes>
-            <nd>
-              <Name>1排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>2排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>3排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>炊事班</Name>
-            </nd>
-          </Nodes>
-        </nd>
-        <nd>
-          <Name>9连</Name>
-          <Nodes>
-            <nd>
-              <Name>1排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>2排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>3排</Name>
-              <Nodes>
-                <nd>
-                  <Name>1班</Name>
-                </nd>
-                <nd>
-                  <Name>2班</Name>
-                </nd>
-                <nd>
-                  <Name>3班</Name>
-                </nd>
-              </Nodes>
-            </nd>
-            <nd>
-              <Name>炊事班</Name>
-            </nd>
-          </Nodes>
-        </nd>
-        <nd>
-          <Name>机枪排</Name>
-          <Nodes>
-            <nd>
-              <Name>1班</Name>
-            </nd>
-            <nd>
-              <Name>2班</Name>
-            </nd>
-            <nd>
-              <Name>3班</Name>
-            </nd>
-            <nd>
-              <Name>炊事班</Name>
-            </nd>
-          </Nodes>
-        </nd>
-      </Nodes>
+      <Name>More likely to present as Intellectual Delayed</Name>
     </nd>
     <nd>
-      <Name>炮兵连</Name>
-      <Nodes>
-        <nd>
-          <Name>迫击炮1排</Name>
-          <Nodes>
-            <nd>
-              <Name>1班</Name>
-            </nd>
-            <nd>
-              <Name>2班</Name>
-            </nd>
-            <nd>
-              <Name>3班</Name>
-            </nd>
-          </Nodes>
-        </nd>
-        <nd>
-          <Name>迫击炮2排</Name>
-          <Nodes>
-            <nd>
-              <Name>1班</Name>
-            </nd>
-            <nd>
-              <Name>2班</Name>
-            </nd>
-            <nd>
-              <Name>3班</Name>
-            </nd>
-          </Nodes>
-        </nd>
-        <nd>
-          <Name>指挥排</Name>
-          <Nodes>
-            <nd>
-              <Name>有线通信班</Name>
-            </nd>
-            <nd>
-              <Name>无线通信班</Name>
-            </nd>
-            <nd>
-              <Name>话务班</Name>
-            </nd>
-          </Nodes>
-        </nd>
-        <nd>
-          <Name>侦察排</Name>
-          <Nodes>
-            <nd>
-              <Name>1班</Name>
-            </nd>
-            <nd>
-              <Name>2班</Name>
-            </nd>
-            <nd>
-              <Name>3班</Name>
-            </nd>
-          </Nodes>
-        </nd>
-        <nd>
-          <Name>运输排</Name>
-          <Nodes>
-            <nd>
-              <Name>1班</Name>
-            </nd>
-            <nd>
-              <Name>2班</Name>
-            </nd>
-            <nd>
-              <Name>3班</Name>
-            </nd>
-          </Nodes>
-        </nd>
-        <nd>
-          <Name>炊事班</Name>
-        </nd>
-      </Nodes>
+      <Name>More likely to be male</Name>
     </nd>
-  </Nodes>
+    <nd>
+      <Name>Lower incidence rates</Name>
+    </nd>
+    <nd>
+      <Name>Change in diagnostic systems over time</Name>
+    </nd>
+    <nd>
+      <Name>Kanner: Autistic disturbances of affective contact</Name>
+    </nd>
+    <nd>
+      <Name>First wave up to 75 years of age</Name>
+    </nd>
+    <nd>
+      <Name>DMM III 1980</Name>
+    </nd>
+    <nd>
+      <Name>Infantile autism</Name>
+    </nd>
+    <nd>
+      <Name>second wave now over 38 years of age</Name>
+    </nd>
+    <nd>
+      <Name>DSM -IV 1994</Name>
+    </nd>
+    <nd>
+      <Name>Introduction of Asperger's Disorder</Name>
+    </nd>
+    <nd>
+      <Name>Third wave over 24</Name>
+    </nd>
+    <nd>
+      <Name>Epidemiology</Name>
+    </nd>
+    <nd>
+      <Name>Incidence rate of adults: 9.8 / 10,000 1%</Name>
+    </nd>
+    <nd>
+      <Name>Male : Female 9:1</Name>
+    </nd>
+    <nd>
+      <Name>More likely to be single</Name>
+    </nd>
+    <nd>
+      <Name>Less likely to own real estate</Name>
+    </nd>
+    <nd>
+      <Name>智力下降的很快</Name>
+    </nd>
+    <nd>
+      <Name>Assessment</Name>
+    </nd>
+    <nd>
+      <Name>Challenges</Name>
+    </nd>
+    <nd>
+      <Name>May not have parents available to provide developmental history</Name>
+    </nd>
+    <nd>
+      <Name>Normative behavior change over time （type of play)</Name>
+    </nd>
+    <nd>
+      <Name>More isolation may lead to less social comparison （我从来一个人在一起，正常人的生活怎样我也不知道）</Name>
+    </nd>
+    <nd>
+      <Name>Lifelong pressure to fit into neurotypical world may lead to more camouflage behavior</Name>
+    </nd>
+    <nd>
+      <Name>ASD symptoms can be overshadowed by other medical conditions</Name>
+    </nd>
+    <nd>
+      <Name>may be triggered by setback phenomenon</Name>
+    </nd>
+    <nd>
+      <Name>Co-occurring Mental Health</Name>
+    </nd>
+    <nd>
+      <Name>Treatment</Name>
+    </nd>
+    <nd>
+      <Name>Outcome data</Name>
+    </nd>
+    <nd>
+      <Name>high rate of cooccurring mental health challenges</Name>
+    </nd>
+    <nd>
+      <Name>increased cost of social challenges</Name>
+    </nd>
+    <nd>
+      <Name>higher likelihood of medical conditions</Name>
+    </nd>
+    <nd>
+      <Name>ASD and women</Name>
+    </nd>
+    <nd>
+      <Name>ASD and gender ratio</Name>
+    </nd>
+    <nd>
+      <Name>History</Name>
+    </nd>
+    <nd>
+      <Name>Kanner 8/11 were males</Name>
+    </nd>
+    <nd>
+      <Name>Asperger 4/4 cases are males</Name>
+    </nd>
+    <nd>
+      <Name>Male biased understanding of ASD</Name>
+    </nd>
+    <nd>
+      <Name>In absence of intellectual impairment, ASD is diagonosed both later and less in females</Name>
+    </nd>
+    <nd>
+      <Name>4:1</Name>
+    </nd>
+    <nd>
+      <Name>If not intellectual impairment 9:1</Name>
+    </nd>
+    <nd>
+      <Name>for low IQ 2:1</Name>
+    </nd>
+    <nd>
+      <Name>女生小时候不容易被诊断出来</Name>
+    </nd>
+    <nd>
+      <Name>时间长了以后会慢慢被诊断出来</Name>
+    </nd>
+    <nd>
+      <Name>Measurement bias</Name>
+    </nd>
+    <nd>
+      <Name>did not factor in gender differences when norming instruments (男女不分家）</Name>
+    </nd>
+    <nd>
+      <Name>Women more likely to diagnosed as AD/HD. eating disorders. language delay</Name>
+    </nd>
+    <nd>
+      <Name>Relationship to language</Name>
+    </nd>
+    <nd>
+      <Name>No speech - no sexual differences</Name>
+    </nd>
+    <nd>
+      <Name>Limited speech - lower IQ and adaptive skills for female</Name>
+    </nd>
+    <nd>
+      <Name>Good speech = similar or better for females</Name>
+    </nd>
+    <nd>
+      <Name>Diagnostic difference for Women "less and later"</Name>
+    </nd>
+    <nd>
+      <Name>More servere</Name>
+    </nd>
+    <nd>
+      <Name>bahavior and cognitive impairment</Name>
+    </nd>
+    <nd>
+      <Name>underreported by teachers</Name>
+    </nd>
+    <nd>
+      <Name>Female phenotype</Name>
+    </nd>
+    <nd>
+      <Name>low self-esteem, internalizing and externalizing behaviors</Name>
+    </nd>
+    <nd>
+      <Name>eating disorder</Name>
+    </nd>
+    <nd>
+      <Name>in NT ~ 1 % in ASD 7.9 %</Name>
+    </nd>
+    <nd>
+      <Name>in NT 10: 1 in ASD 2.5 : 1</Name>
+    </nd>
+    <nd>
+      <Name>Better Linguistic abilities and imagination</Name>
+    </nd>
+    <nd>
+      <Name>Greater awareness of social interaction</Name>
+    </nd>
+    <nd>
+      <Name>Perceived as being shy</Name>
+    </nd>
+    <nd>
+      <Name>Tend to imitate and camouflage</Name>
+    </nd>
+    <nd>
+      <Name>Tend to be mothered in primary school and bullying at secondary school</Name>
+    </nd>
+    <nd>
+      <Name>Restricted interests in animals， being professional perfectionalism</Name>
+    </nd>
+    <nd>
+      <Name>Passive demand/ avoidance</Name>
+    </nd>
+    <nd>
+      <Name>Tend to have eating disorders</Name>
+    </nd>
+    <nd>
+      <Name>Men VS Women</Name>
+    </nd>
+    <nd>
+      <Name>Male : imaginative play, circumscribed interests, unusual preoccupation, hand finger, object usuage, preoccupation with objects, fascination in movement, attention to detail</Name>
+    </nd>
+    <nd>
+      <Name>Female: range of facial expression, self injury, drawing skill, plus hair salon, rubs, scratches self, washing and cleaning, hoarding, self - care bathroom, dressing, strong attachment to one object.</Name>
+    </nd>
+    <nd>
+      <Name>Female have</Name>
+    </nd>
+    <nd>
+      <Name>More communication impairment</Name>
+    </nd>
+    <nd>
+      <Name>Lower level of restricted interests</Name>
+    </nd>
+    <nd>
+      <Name>Lower cognitive ability</Name>
+    </nd>
+    <nd>
+      <Name>Weaker adaptive skills</Name>
+    </nd>
+    <nd>
+      <Name>Greater externalizing</Name>
+    </nd>
+    <nd>
+      <Name>High level of lethargy (lack of energy)</Name>
+    </nd>
+    <nd>
+      <Name>Better observational learning</Name>
+    </nd>
+    <nd>
+      <Name>stronger internal scripting for relationship</Name>
+    </nd>
+    <nd>
+      <Name>better use of gesture</Name>
+    </nd>
+    <nd>
+      <Name>Female Camouflage Effect</Name>
+    </nd>
+    <nd>
+      <Name>Greater interest in socialization</Name>
+    </nd>
+    <nd>
+      <Name>Fewer repetitive restricted behaviors</Name>
+    </nd>
+    <nd>
+      <Name>High level of internalizing and less externalizing</Name>
+    </nd>
+    <nd>
+      <Name>fake eye contact</Name>
+    </nd>
+    <nd>
+      <Name>learned phase</Name>
+    </nd>
+    <nd>
+      <Name>Female protective effect</Name>
+    </nd>
+    <nd>
+      <Name>Your are not autistic</Name>
+    </nd>
+    <nd>
+      <Name>Pretending to normal</Name>
+    </nd>
+    <nd>
+      <Name>Passive to assertive</Name>
+    </nd>
+    <nd>
+      <Name>Forgoing an identity as a woman with ASD</Name>
+    </nd>
+    <nd>
+      <Name>Cost associated with later diagnosis</Name>
+    </nd>
+    <nd>
+      <Name>Age of diagnosis (later for female)</Name>
+    </nd>
+    <nd>
+      <Name>However, age when parents first express concern (no difference)</Name>
+    </nd>
+    <nd>
+      <Name>late provision of services</Name>
+    </nd>
+    <nd>
+      <Name>miss opportunity for early intervention</Name>
+    </nd>
+    <nd>
+      <Name>disproportionate amount of ASD specialist</Name>
+    </nd>
+    <nd>
+      <Name>Female Bi-modal distribution</Name>
+    </nd>
+    <nd>
+      <Name>May be that the lower group is more classically ASD and that higher group is atypical and presents differently to males</Name>
+    </nd>
+    <nd>
+      <Name>ASD and Sexual Relationship</Name>
+    </nd>
+    <nd>
+      <Name>ASD and sexuality</Name>
+    </nd>
+    <nd>
+      <Name>Samples are drawn from low IQ</Name>
+    </nd>
+    <nd>
+      <Name>Lump with other disabilities</Name>
+    </nd>
+    <nd>
+      <Name>93% cognitive-able samples express sexual interests</Name>
+    </nd>
+    <nd>
+      <Name>68% of lower cognitive group expressing interest</Name>
+    </nd>
+    <nd>
+      <Name>Relationships</Name>
+    </nd>
+    <nd>
+      <Name>Men</Name>
+    </nd>
+    <nd>
+      <Name>Never in relationship: 35%</Name>
+    </nd>
+    <nd>
+      <Name>Previous relationship: 25%</Name>
+    </nd>
+    <nd>
+      <Name>Current relationship: 37%</Name>
+    </nd>
+    <nd>
+      <Name>Women</Name>
+    </nd>
+    <nd>
+      <Name>Never in relationship: 28% - 女生谈恋爱的多一些</Name>
+    </nd>
+    <nd>
+      <Name>Previous relationship: 43%</Name>
+    </nd>
+    <nd>
+      <Name>Current relationship: 48%</Name>
+    </nd>
+    <nd>
+      <Name>Why</Name>
+    </nd>
+    <nd>
+      <Name>Contact others is too exhausting for me</Name>
+    </nd>
+    <nd>
+      <Name>I am afraid of not fulfilling my partner's expectation</Name>
+    </nd>
+    <nd>
+      <Name>I do not know how to meet a potential partner</Name>
+    </nd>
+    <nd>
+      <Name>不是不需要，其实也想要</Name>
+    </nd>
+    <nd>
+      <Name>Dating challenges</Name>
+    </nd>
+    <nd>
+      <Name>Proximity - 周围认识的人的多少</Name>
+    </nd>
+    <nd>
+      <Name>No study about ASD and marriage</Name>
+    </nd>
+    <nd>
+      <Name>Sexual offending</Name>
+    </nd>
+    <nd>
+      <Name>Sex offender - 22%v 60 meet ASD</Name>
+    </nd>
+    <nd>
+      <Name>Higher percentage of stalking</Name>
+    </nd>
+    <nd>
+      <Name>poor regulation of behavior</Name>
+    </nd>
+    <nd>
+      <Name>Gender Identity</Name>
+    </nd>
+    <nd>
+      <Name>Sexual orientation</Name>
+    </nd>
+    <nd>
+      <Name>High cognitive function - 93% Positive sexual interest</Name>
+    </nd>
+    <nd>
+      <Name>low cognitive - 68% positive sexual interest</Name>
+    </nd>
+    <nd>
+      <Name>Gender variance</Name>
+    </nd>
+    <nd>
+      <Name>Male ASD</Name>
+    </nd>
+    <nd>
+      <Name>Higher percentage of transgender</Name>
+    </nd>
+    <nd>
+      <Name>Lower percentage of male identity</Name>
+    </nd>
+    <nd>
+      <Name>High percentage of bigender</Name>
+    </nd>
+    <nd>
+      <Name>Higher percentage of women identity</Name>
+    </nd>
+    <nd>
+      <Name>Female ASD</Name>
+    </nd>
+    <nd>
+      <Name>Higher percentage of genderqueer</Name>
+    </nd>
+    <nd>
+      <Name>Higher percentage of other</Name>
+    </nd>
+    <nd>
+      <Name>Lower percentage of women</Name>
+    </nd>
+    <nd>
+      <Name>Higher percentage of transgender</Name>
+    </nd>
+    <nd>
+      <Name>Gender dysphoria</Name>
+    </nd>
+    <nd>
+      <Name>a conflict between a person's physical or assigned gender and the gender with identify (性别焦虑）</Name>
+    </nd>
+    <nd>
+      <Name>ASD 7.59 times more likely to report ( 4.0 %)</Name>
+    </nd>
+    <nd>
+      <Name>Biology factor (gene, hormone, toxin) VS Social factor (parenting)</Name>
+    </nd>
+    <nd>
+      <Name>gender identity develop within first 3 year</Name>
+    </nd>
+    <nd>
+      <Name>have a disturbed sense of self</Name>
+    </nd>
+    <nd>
+      <Name>Similarity to neurotypical</Name>
+    </nd>
+    <nd>
+      <Name>Same need for closeness, sexual relationship</Name>
+    </nd>
+    <nd>
+      <Name>No difference in: sexual interest, use of porn, masturbation..</Name>
+    </nd>
+    <nd>
+      <Name>Difference from neurotypical</Name>
+    </nd>
+    <nd>
+      <Name>May engage in more inappropriate sexual behavior</Name>
+    </nd>
+    <nd>
+      <Name>Lack of ToM, less awareness of partner's needs</Name>
+    </nd>
+    <nd>
+      <Name>More likely to be victmized</Name>
+    </nd>
+    <nd>
+      <Name>poor self advocacy</Name>
+    </nd>
+    <nd>
+      <Name>a sexual abuse rate 12% in ASD</Name>
+    </nd>
+    <nd>
+      <Name>More likely to be female, intellectual disability</Name>
+    </nd>
+    <nd>
+      <Name>Deviant Sexual Behavior</Name>
+    </nd>
+    <nd>
+      <Name>Public masturbation</Name>
+    </nd>
+    <nd>
+      <Name>Arousal to non-traditional object</Name>
+    </nd>
+    <nd>
+      <Name>Exhibitionism - expose genital</Name>
+    </nd>
+    <nd>
+      <Name>Offenses</Name>
+    </nd>
+    <nd>
+      <Name>Sexual Abuse</Name>
+    </nd>
+    <nd>
+      <Name>Non-consenusal hugging</Name>
+    </nd>
+    <nd>
+      <Name>Reason</Name>
+    </nd>
+    <nd>
+      <Name>Puberty</Name>
+    </nd>
+    <nd>
+      <Name>Sensory issues</Name>
+    </nd>
+    <nd>
+      <Name>Boundaries</Name>
+    </nd>
+    <nd>
+      <Name>Curiosity</Name>
+    </nd>
+    <nd>
+      <Name>Exposure to porn</Name>
+    </nd>
+    <nd>
+      <Name>CBT</Name>
+    </nd>
+    <nd>
+      <Name>Introduction to Cognitive Behaviour Therapy</Name>
+    </nd>
+    <nd>
+      <Name>A form of psychopathlogy - focus on identify and systematically altering maladaptive cognitive and behavior coping</Name>
+    </nd>
+    <nd>
+      <Name>compare to ABT</Name>
+    </nd>
+    <nd>
+      <Name>Teach people to change behavior</Name>
+    </nd>
+    <nd>
+      <Name>access outcome in measurable terms</Name>
+    </nd>
+    <nd>
+      <Name>differ in how may change</Name>
+    </nd>
+    <nd>
+      <Name>behavior is</Name>
+    </nd>
+    <nd>
+      <Name>evidenced based</Name>
+    </nd>
+    <nd>
+      <Name>explicit protocols for treatment</Name>
+    </nd>
+    <nd>
+      <Name>Present-focused</Name>
+    </nd>
+    <nd>
+      <Name>Use Rationale to achieve collaboration</Name>
+    </nd>
+    <nd>
+      <Name>Skills-acquisition approach</Name>
+    </nd>
+    <nd>
+      <Name>Goal-setting is fundamental</Name>
+    </nd>
+    <nd>
+      <Name>Automatic thoughts</Name>
+    </nd>
+    <nd>
+      <Name>All or nothing</Name>
+    </nd>
+    <nd>
+      <Name>Overgeneralization</Name>
+    </nd>
+    <nd>
+      <Name>Mind reading</Name>
+    </nd>
+    <nd>
+      <Name>Catastrophing</Name>
+    </nd>
+    <nd>
+      <Name>What if</Name>
+    </nd>
+    <nd>
+      <Name>Should / Must</Name>
+    </nd>
+    <nd>
+      <Name>Depressive thought</Name>
+    </nd>
+    <nd>
+      <Name>systematic desensitization</Name>
+    </nd>
+    <nd>
+      <Name>exposure to increasing more anxiety- provoking stimuyli</Name>
+    </nd>
+    <nd>
+      <Name>Relaxation techniques</Name>
+    </nd>
+    <nd>
+      <Name>progressive relaxation</Name>
+    </nd>
+    <nd>
+      <Name>deep breathing</Name>
+    </nd>
+    <nd>
+      <Name>imagery</Name>
+    </nd>
+    <nd>
+      <Name>Adaptations for ASD</Name>
+    </nd>
+    <nd>
+      <Name>Application for ASD</Name>
+    </nd>
+    <nd>
+      <Name>Employment and ASD</Name>
+    </nd>
+    <nd>
+      <Name>ASD and employment</Name>
+    </nd>
+    <nd>
+      <Name>ASD quality of life measurements comparable to NT</Name>
+    </nd>
+    <nd>
+      <Name>Job satisfaction correlates with life satisfaction</Name>
+    </nd>
+    <nd>
+      <Name>self-efficacy correlates with work-related outcomes</Name>
+    </nd>
+    <nd>
+      <Name>Individual with ASD are capable of employment</Name>
+    </nd>
+    <nd>
+      <Name>Individuals with ASD want to work</Name>
+    </nd>
+    <nd>
+      <Name>Advantage of work</Name>
+    </nd>
+    <nd>
+      <Name>less about money</Name>
+    </nd>
+    <nd>
+      <Name>more about contribution to society</Name>
+    </nd>
+    <nd>
+      <Name>stats</Name>
+    </nd>
+    <nd>
+      <Name>300000 in 17 million</Name>
+    </nd>
+    <nd>
+      <Name>3billion expect 50-60 million</Name>
+    </nd>
+    <nd>
+      <Name>Labour force participation rates</Name>
+    </nd>
+    <nd>
+      <Name>Neurotypical : 83%</Name>
+    </nd>
+    <nd>
+      <Name>Any Disability: 54 %</Name>
+    </nd>
+    <nd>
+      <Name>ASD: 34%</Name>
+    </nd>
+    <nd>
+      <Name>Intellectual disability 4X</Name>
+    </nd>
+    <nd>
+      <Name>Emotional Disturbance 7 X</Name>
+    </nd>
+    <nd>
+      <Name>Learning Disabled 12X</Name>
+    </nd>
+    <nd>
+      <Name>Speech/ Language Impairment</Name>
+    </nd>
+    <nd>
+      <Name>barriers to employment</Name>
+    </nd>
+    <nd>
+      <Name>Attitude toward disability</Name>
+    </nd>
+    <nd>
+      <Name>management style</Name>
+    </nd>
+    <nd>
+      <Name>lack of accommodation</Name>
+    </nd>
+    <nd>
+      <Name>employer structure</Name>
+    </nd>
+    <nd>
+      <Name>Internal challenges</Name>
+    </nd>
+    <nd>
+      <Name>executive functioning skills</Name>
+    </nd>
+    <nd>
+      <Name>Job interview</Name>
+    </nd>
+    <nd>
+      <Name>on the job skills</Name>
+    </nd>
+    <nd>
+      <Name>balance workload</Name>
+    </nd>
+    <nd>
+      <Name>priortizing work</Name>
+    </nd>
+    <nd>
+      <Name>complex set of instruction</Name>
+    </nd>
+    <nd>
+      <Name>expectation of generalization</Name>
+    </nd>
+    <nd>
+      <Name>social skills</Name>
+    </nd>
+    <nd>
+      <Name>one of the most significant barrier to successful employment</Name>
+    </nd>
+    <nd>
+      <Name>Comobidity</Name>
+    </nd>
+    <nd>
+      <Name>Workplace protocols</Name>
+    </nd>
+    <nd>
+      <Name>tardiness protocol</Name>
+    </nd>
+    <nd>
+      <Name>overtime</Name>
+    </nd>
+    <nd>
+      <Name>Types of employment</Name>
+    </nd>
+    <nd>
+      <Name>unemployed</Name>
+    </nd>
+    <nd>
+      <Name>without a job</Name>
+    </nd>
+    <nd>
+      <Name>underemployed</Name>
+    </nd>
+    <nd>
+      <Name>employed in a job that underutilize skills</Name>
+    </nd>
+    <nd>
+      <Name>Malemplyed</Name>
+    </nd>
+    <nd>
+      <Name>malemployed in a job that is ill-suited to skills</Name>
+    </nd>
+    <nd>
+      <Name>Natural science Geography and computer science</Name>
+    </nd>
+    <nd>
+      <Name>ASD friendly</Name>
+    </nd>
+    <nd>
+      <Name>pattern recognition</Name>
+    </nd>
+    <nd>
+      <Name>repetitive</Name>
+    </nd>
+    <nd>
+      <Name>income not tied tied to productio</Name>
+    </nd>
+    <nd>
+      <Name>ASD - challenging</Name>
+    </nd>
+    <nd>
+      <Name>income tied to social skills</Name>
+    </nd>
+    <nd>
+      <Name>reliant on generalizaiton</Name>
+    </nd>
+    <nd>
+      <Name>Supported employment</Name>
+    </nd>
+    <nd>
+      <Name>assesessment</Name>
+    </nd>
+    <nd>
+      <Name>job finding</Name>
+    </nd>
+    <nd>
+      <Name>job analysis</Name>
+    </nd>
+    <nd>
+      <Name>job matching</Name>
+    </nd>
+    <nd>
+      <Name>job design</Name>
+    </nd>
+    <nd>
+      <Name>introduction into the workplace</Name>
+    </nd>
+    <nd>
+      <Name>training on the job</Name>
+    </nd>
+    <nd>
+      <Name>Customized Employment</Name>
+    </nd>
+    <nd>
+      <Name>self - actualization</Name>
+    </nd>
+    <nd>
+      <Name>social and collegial factors</Name>
+    </nd>
+    <nd>
+      <Name>job roles and work content</Name>
+    </nd>
+    <nd>
+      <Name>skills</Name>
+    </nd>
+    <nd>
+      <Name>attention to detail</Name>
+    </nd>
+    <nd>
+      <Name>work ethic</Name>
+    </nd>
+    <nd>
+      <Name>quality of work</Name>
+    </nd>
+    <nd>
+      <Name>behavioral skills training</Name>
+    </nd>
+    <nd>
+      <Name>robust effect</Name>
+    </nd>
+    <nd>
+      <Name>vedio-based intervention</Name>
+    </nd>
+    <nd>
+      <Name>good promise</Name>
+    </nd>
+    <nd>
+      <Name>Cost/ benefits of employment and ASD</Name>
+    </nd>
+    <nd>
+      <Name>inclusion</Name>
+    </nd>
+    <nd>
+      <Name>societal benefits</Name>
+    </nd>
+    <nd>
+      <Name>economic benefit</Name>
+    </nd>
+    <nd>
+      <Name>Cognitive variation in ASD</Name>
+    </nd>
+    <nd>
+      <Name>How/low function</Name>
+    </nd>
+    <nd>
+      <Name>Intelligence assumption</Name>
+    </nd>
+    <nd>
+      <Name>Wechsler Preschool and Primary scale of Intelligence</Name>
+    </nd>
+    <nd>
+      <Name>Wechsler Intelligence Scale for Children</Name>
+    </nd>
+    <nd>
+      <Name>Wechsler Adult Intelligence Scale</Name>
+    </nd>
+    <nd>
+      <Name>Verbal comprehension</Name>
+    </nd>
+    <nd>
+      <Name>processing speed</Name>
+    </nd>
+    <nd>
+      <Name>working memory</Name>
+    </nd>
+    <nd>
+      <Name>Spatical</Name>
+    </nd>
+    <nd>
+      <Name>Fluid Reasoning</Name>
+    </nd>
+    <nd>
+      <Name>Assumption</Name>
+    </nd>
+    <nd>
+      <Name>Stable over time</Name>
+    </nd>
+    <nd>
+      <Name>IQ score is reflective of ability</Name>
+    </nd>
+    <nd>
+      <Name>Norm apply to all groups</Name>
+    </nd>
+    <nd>
+      <Name>confounds with ASD</Name>
+    </nd>
+    <nd>
+      <Name>Process speed can impact scores</Name>
+    </nd>
+    <nd>
+      <Name>All or nothing response may not allow elaboration</Name>
+    </nd>
+    <nd>
+      <Name>ToM reduce effort</Name>
+    </nd>
+    <nd>
+      <Name>Abstraction</Name>
+    </nd>
+    <nd>
+      <Name>Delayed development over time</Name>
+    </nd>
+    <nd>
+      <Name>low cognitive abilities</Name>
+    </nd>
+    <nd>
+      <Name>Type of support</Name>
+    </nd>
+    <nd>
+      <Name>Differentiate ASD and low IQ</Name>
+    </nd>
+    <nd>
+      <Name>impaired relationship</Name>
+    </nd>
+    <nd>
+      <Name>no shared enjoyment</Name>
+    </nd>
+    <nd>
+      <Name>no make believe play</Name>
+    </nd>
+    <nd>
+      <Name>restricted interest</Name>
+    </nd>
+    <nd>
+      <Name>ASD level 3</Name>
+    </nd>
+    <nd>
+      <Name>high cognitive ability</Name>
+    </nd>
+    <nd>
+      <Name>ASD Level1: a person who is able to speak in full sentences and engage in communicat</Name>
+    </nd>
+    <nd>
+      <Name>even with high IQ, cannot look after themselves</Name>
+    </nd>
+  </Name>
 </nd>
