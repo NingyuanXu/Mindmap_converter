@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="forms_rt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../RateMyRestaurant/src/Libraries/forms_rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../RateMyRestaurant/src/Libraries/hb15.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../RateMyRestaurant/src/Libraries/ojdbc7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

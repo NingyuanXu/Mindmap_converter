@@ -10,12 +10,20 @@ import org.dom4j.io.XMLWriter;
 
 @SuppressWarnings("serial")
 public class Node<T> implements Serializable {
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 
     protected Node<T> parentNode;
     protected T nodeEntity;
     protected List<Node<T>> childNodes;
     protected int indent;
     protected Element element;
+    protected String name;
 
     public Element getElement() {
         return element;
